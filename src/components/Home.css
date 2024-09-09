@@ -1,0 +1,28 @@
+.Heading{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.form{
+    padding: 20px;
+}
+.monitor_box{
+    padding: 20px;
+}
+p{
+    margin: 0px;
+}
+.monitor_name{
+    font-size:xx-large;
+}
+div{
+    padding: 20px;
+}
+.hide_option{
+    display: none;
+}
+.voted_student{
+    margin: -20px;
+    display: flex;
+    gap: 10px;
+}
